@@ -1,4 +1,8 @@
 #Show and Tell Projects
+##ChartJS
+[ChartJs Project](http://messerschimdt.github.io/chartjs/)
+
+This is an exploration of ChartJs, showing a chart of average income of the bottom 90%. The dataset is taken from WID.world. This uses canvas rather than svg elements.
 
 ##d3
 
