@@ -1,5 +1,6 @@
 #Show and Tell Projects
-##[Webscrape Project](https://github.com/Messerschimdt/webscrape)
+##Webscrape Project
+[Webscrape Project](https://github.com/Messerschimdt/webscrape)
 
 This is a webscrapper scrapping a couple of job boards using nodejs as the backend server. For the packages it uses request package to pull requests, express for the router, cheerio to load and traverse through the DOM, async to run parallel request functions, ejs for the view layout. On the view bulma css, a flexbox framework, for layout and one google web font.
 
