@@ -1,4 +1,9 @@
 #Show and Tell Projects
+##VideoJS
+[Frontend Authority Mock Desktop Frontpage](http://messerschimdt.github.io/fea-videojs/)
+
+A mock frontpage showing off videojs.
+
 ##Webscrape Project
 [Webscrape Project](https://github.com/Messerschimdt/webscrape)
 
