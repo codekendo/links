@@ -1,6 +1,6 @@
 #Show and Tell Projects
 
-##VideoJS and 
+##Visual Project Site
 [Frontend Authority Mock Desktop Frontpage](http://messerschimdt.github.io/fea-videojs/)
 
 A demo of a my project site using videojs, flexbox css transforms, transitions and animations.
