@@ -1,9 +1,6 @@
 #Show and Tell Projects
 
-##Angular and WikiViewer
-Showcasing angularJS 1.5 x and flexbox centering. 
-
-##Visual Project Site
+##Visual Portfolio Site
 [Frontend Authority Mock Desktop Frontpage](http://messerschimdt.github.io/hack-design/)
 
 A demo of a my project site using videojs, flexbox css transforms, transitions and animations.
