@@ -1,8 +1,9 @@
 #Show and Tell Projects
-##VideoJS
+
+##VideoJS and 
 [Frontend Authority Mock Desktop Frontpage](http://messerschimdt.github.io/fea-videojs/)
 
-A mock frontpage showing off videojs.
+A demo of a my project site using videojs, flexbox css transforms, transitions and animations.
 
 ##Webscrape Project
 [Webscrape Project](https://github.com/Messerschimdt/webscrape)
