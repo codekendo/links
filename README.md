@@ -1,7 +1,7 @@
 #Show and Tell Projects
 
 ##Visual Portfolio Site
-[Frontend Authority Mock Desktop Frontpage](http://messerschimdt.github.io/hack-design/)
+[Hack and Design](http://messerschimdt.github.io/hack-design/)
 
 A demo of a my project site using videojs, flexbox css transforms, transitions and animations.
 
