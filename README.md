@@ -3,8 +3,8 @@
 ##
 
 ##Lubr
-[Lubr](http://messerschimdt.github.io/lubr2/)
-[Lubr](http://messerschimdt.github.io/lubr3/)
+[Lubr1](http://messerschimdt.github.io/lubr2/)
+[Lubr2](http://messerschimdt.github.io/lubr3/)
 
 A client asked for a redesign of a broken site here is the [orginal site](http://lubrlabs.com/landing/). The site wasn't responsive and had broken css cascade, and lots of bloat. I provided two layouts one complete redo with a video background and a second with similar ui design using mostly bootstrap and css gradients. Little jquery just for a button disabling. Note the submit does not go any where I was not provided with a POST information. 
 
