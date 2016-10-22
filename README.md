@@ -1,16 +1,28 @@
 #Show and Tell Projects
 
+##
+
+##Lubr
+[Lubr](http://messerschimdt.github.io/lubr2/)
+[Lubr](http://messerschimdt.github.io/lubr3/)
+
+A client asked for a redesign of a broken site here is the [orginal site](http://lubrlabs.com/landing/). The site wasn't responsive and had broken css cascade, and lots of bloat. I provided two layouts one complete redo with a video background and a second with similar ui design using mostly bootstrap and css gradients. Little jquery just for a button disabling. Note the submit does not go any where I was not provided with a POST information. 
+
 ##Visual Portfolio Site
 [Hack and Design](http://messerschimdt.github.io/hack-design/)
 
-A demo of a my project site using videojs, flexbox css transforms, transitions and animations.
+A demo of a my project site using, css3 features such as flexbox for centering, and video embed in html and using media queries to hide it. This is a Desktop down design and bested experience is on the desktop.
+
+##Wikipedia Viewer
+[Wikipedia Viwer](https://github.com/Messerschimdt/wikiviewer/tree/gh-pages)
+Note this is an Angular App that shows that is code only. Sidenote I wished github pages had cross-orgin resource sharing because it doesn't I can only show you code rather than a finished product but I digress. Here is an app that where I dive into angular and use bind an input to api call and make realtime searchs with $watch function using the wikipedia API. 
 
 ##Webscrape Project
 [Webscrape Project](https://github.com/Messerschimdt/webscrape)
 
 This is a webscrapper scrapping a couple of job boards using nodejs as the backend server. For the packages it uses request package to pull requests, express for the router, cheerio to load and traverse through the DOM, async to run parallel request functions, ejs for the view layout. On the view bulma css, a flexbox framework, for layout and one google web font.
 
-*Note this is not a finished product. 
+*Note this is not a finished product. And maybe broken because of changing DOM elements on the job boards.
 
 To install this project, you must have nodejs installed on your computer, load the files into a blank folder and run npm install in the terminal of the directory with the package.json. Then run node server.js in the terminal of the root directory. Then with your browser type http://localhost:8081/scrape a view and sever side logic should be excecuted.
 
