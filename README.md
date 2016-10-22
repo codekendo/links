@@ -11,7 +11,7 @@ A client asked for a redesign of a broken site here is the [orginal site](http:/
 ##Visual Portfolio Site
 [Hack and Design](http://messerschimdt.github.io/hack-design/)
 
-A demo of a my project site using, css3 features such as flexbox for centering, and video embed in html and using media queries to hide it. This is a Desktop down design and bested experience is on the desktop.
+A demo of a my project site using, css3 features such as flexbox for centering, and video embed in html and using media queries to hide it. This is a Desktop down design and the prefered experience is on the desktop since I use media queries to hide the video..
 
 ##Wikipedia Viewer
 [Wikipedia Viwer](https://github.com/Messerschimdt/wikiviewer/tree/gh-pages)
