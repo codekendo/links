@@ -1,12 +1,26 @@
 #Show and Tell Projects
 
-##
+##UdaciCards
+[UdaciCards](https://github.com/codekendo/UdaciCards)
+
+A react native flash card app that runs on android platform.  
+
+##Readable
+[Readable Github Repo](https://github.com/codekendo/reactnd-project-readable)
+
+A reddit or hn clone built using react and redux.
+
+##My Reads
+[MyReads Production Site](https://github.com/codekendo/MyReads)
+[MyReads Github Repo](https://github.com/codekendo/MyReads)
+
+This is a react app called My Reads app for the Udacity React Course. This app is to search for books, and place them into 3 different book shelfs.
 
 ##Lubr
 [Lubr1](http://codekendo.github.io/lubr2/)
 [Lubr2](http://codekendo.github.io/lubr3/)
 
-A client asked for a redesign of a broken site here is the [orginal site](http://lubrlabs.com/landing/). The site wasn't responsive and had broken css cascade, and lots of bloat. I provided two layouts one complete redo with a video background and a second with similar ui design using mostly bootstrap and css gradients. Little jquery just for a button disabling. Note the submit does not go any where I was not provided with POST information. 
+A client asked for a redesign of a broken site here is the [orginal site](http://lubrlabs.com/landing/). The site wasn't responsive and had broken css cascade, and lots of bloat. I provided two layouts one complete redo with a video background and a second with similar ui design using mostly bootstrap and css gradients. Little jquery just for a button disabling. Note the submit does not go any where I was not provided with POST information.
 
 ##Visual Portfolio Site
 [Hack and Design](http://codekendo.github.io/hack-design/)
@@ -16,7 +30,7 @@ A demo of a my project site using, css3 features such as flexbox for centering, 
 ##Wikipedia Viewer
 [Wikipedia Viwer](https://github.com/codekendo/wikiviewer/tree/gh-pages)
 
-Note this is an Angular App that shows that is code only. Sidenote I wished github pages had cross-orgin resource sharing because it doesn't I can only show you code rather than a finished product but I digress. Here is an app that where I dive into angular and use bind an input to api call and make realtime searchs with $watch function using the wikipedia API. 
+Note this is an Angular App that shows that is code only. Sidenote I wished github pages had cross-orgin resource sharing because it doesn't I can only show you code rather than a finished product but I digress. Here is an app that where I dive into angular and use bind an input to api call and make realtime searchs with $watch function using the wikipedia API.
 
 ##Webscrape Project
 [Webscrape Project](https://github.com/codekendo/webscrape)
@@ -36,7 +50,7 @@ This is an exploration of ChartJs, showing a chart of average income of the bott
 
 [D3 Project](http://codekendo.github.io/cpi)
 
-This is consumer price index graph built with the D3 Library(Data Driven Documents), it has a mouseover event that shows time and value when you hover over the graph. The Data set is a CSV file, from WDI.world which is parsed by D3 to append SVG elements that scale into a div element. 
+This is consumer price index graph built with the D3 Library(Data Driven Documents), it has a mouseover event that shows time and value when you hover over the graph. The Data set is a CSV file, from WDI.world which is parsed by D3 to append SVG elements that scale into a div element.
 
 ##random quote generator
 
